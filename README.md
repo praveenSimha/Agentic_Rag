@@ -41,7 +41,7 @@ Agentic_RAG/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/praveenSimha/agentic-rag-chatbot.git
+git clone https://github.com/praveenSimha/Agentic_Rag.git
 cd agentic-rag-chatbot
 ```
 
